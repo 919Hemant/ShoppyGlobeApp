@@ -1,5 +1,8 @@
 # ShoppyGlobe: E-commerce Application
 
+**Live Demo**: [https://shoppy-globe-app.vercel.app/]
+**GitHub Repository**: [https://github.com/919Hemant/ShoppyGlobeApp]
+
 ShoppyGlobe is a modern e-commerce application built using **React.js**. It demonstrates various React features, including component-based architecture, state management with Redux Toolkit, React Router for navigation, and dynamic data fetching. The project is designed to showcase a functional, responsive, and user-friendly e-commerce interface.
 
 ---
@@ -54,7 +57,7 @@ The application follows a modular component architecture:
 
 ### Prerequisites
 - Node.js (v14 or later)
-- npm or yarn
+
 
 ### Installation
 1. Clone or download the repository to your local machine
